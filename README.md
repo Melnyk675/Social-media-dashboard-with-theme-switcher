@@ -9,7 +9,7 @@ Users should be able to:
 Links
 
 - Solution URL: https://github.com/Melnyk675/Social-media-dashboard-with-theme-switcher
-- Live Site URL:
+- Live Site URL: https://melnyk675.github.io/Social-media-dashboard-with-theme-switcher/
 
 Built with
 
